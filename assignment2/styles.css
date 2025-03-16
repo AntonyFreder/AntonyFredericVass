@@ -1,0 +1,68 @@
+/* Resetting default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body styling */
+header{
+    background-color: #93d0f4;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+main{
+    margin: 30px 0;
+}
+
+footer{
+    background-color: #93d0f4;
+    color:#ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.standard_chart_img{
+max-width: 100%;
+height: auto;
+
+}
+
+table{
+    border: 1px, solid #ddd;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+}
+
+tr{
+    border: 1px, solid #ddd;
+}
+th, td{
+    border: 1px, solid #ddd;
+  
+}
+
+a{
+    color: #0079c1;
+}
+
+
+
+h1{
+    color:#ffffff;
+}
+
+section{
+    margin: 30px 0;
+}
+/* Add in your own customisations */
