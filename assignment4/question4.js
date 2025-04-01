@@ -4,3 +4,8 @@ const msftData = [
 ];
 
 // Write your code below
+let closingPrice1 = msftData[0][3];
+let closingPrice2 = msftData[1][3];
+let averageClosingPrice = (closingPrice1+closingPrice2)/2.0;
+
+console.log("Average closing price of MSFT is", averageClosingPrice.toFixed(2))
