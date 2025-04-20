@@ -68,7 +68,7 @@ function Header({title, tagline}) {
 function Footer() {
   return (
       <footer>
-          <p>&copy; 2025 My Blog. All rights reserved.</p>
+          <p>&copy; 2024 My Blog. All rights reserved.</p>
       </footer>
   );
 }
